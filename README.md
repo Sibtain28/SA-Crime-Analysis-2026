@@ -26,9 +26,6 @@ SA-Crime-Analysis-2026/
 │   ├── 02_cleaning_pipeline.ipynb   # Step-by-step data cleaning
 │   └── 03_eda.ipynb                 # Exploratory data analysis
 │
-├── scripts/
-│   ├── generate_raw_data.py         # Standalone raw data generator
-│   └── cleaning_pipeline.py         # Standalone cleaning pipeline
 │
 ├── tableau/
 │   └── SA_Crime_Dashboard.twbx      # Tableau workbook
