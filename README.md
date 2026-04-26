@@ -146,4 +146,4 @@ python scripts/cleaning_pipeline.py
 
 **Sibtain** — Full Stack Developer | Data Visualization & Analytics | Generative AI
 
-[![GitHub](https://img.shields.io/badge/GitHub-Sibtain28-black?logo=github)](https://github.com/Sibtain28)
+[![GitHub](https://img.shields.io/badge/GitHub-Sibtain28-black?logo=github)](https://github.com/Sibtain28).
